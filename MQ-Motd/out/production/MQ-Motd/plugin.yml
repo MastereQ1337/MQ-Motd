@@ -1,8 +1,0 @@
-name: MQ-Motd
-version: 1.0
-main: net.mastereq.Main
-author: MastereQ
-
-commands:
-  motd:
-  slots:

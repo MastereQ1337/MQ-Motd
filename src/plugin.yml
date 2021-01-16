@@ -1,0 +1,7 @@
+name: MQ-Motd
+version: 1.1
+main: net.mastereq.Main
+authors: [MastereQ, sadcenter]
+
+commands:
+  motd:
